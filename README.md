@@ -89,7 +89,8 @@ The application displays the heading **STUDENT DETAILS** and a button. When the 
 - **Register Number:** 212224220109
 
 The button text changes to **Details Revealed**.
-<img width="1863" height="968" alt="Screenshot 2026-10-26 103532" src="https://github.com/user-attachments/assets/ce57306d-0072-4007-b77a-1763aff65bf7" />
+<img width="1912" height="1131" alt="image" src="https://github.com/user-attachments/assets/4fc056c6-e3c3-4b34-b4b1-39f5ed784366" />
+
 
 
 
